@@ -4,7 +4,7 @@
 
 Gen Z is transforming fashion by emphasizing self-expression, sustainability, and social consciousness over fleeting trends. The traditional fashion industry struggles to meet these evolving demands. As technology advances, Gen Z seeks a system that supports individuality and keeps them informed about trends. This gap presents a crucial opportunity for the fashion industry to innovate and align with Gen Z's unique needs.
 ***
-**2.USE CASES**
+**2. USE CASES**
 
 For this problem, the use cases we are addressing:
 
@@ -12,7 +12,7 @@ Trend-Identification: Utilize data analytics and market research to identify eme
 
 Trend-Centric Recommendations: Employ AI-driven recommendation systems that analyze current fashion trends, customer preferences, and purchase history to deliver tailored product suggestions, enhancing customer engagement and conversion rates in the fast fashion segment.
 ***
-**3.TECHNOLOGY**
+**3. TECHNOLOGY**
 
 The Broad Technologies Used  are:
 
@@ -38,7 +38,7 @@ Libraries: Streamlit
 
 Tools: VS Code
 ***
-**4.FEATURES**
+**4. FEATURES**
 
 Personalization: Tailors recommendations to individual preferences, enhancing customer satisfaction.
 
@@ -53,7 +53,7 @@ Promotes Sustainability: Integrates ethical and sustainable choices, appealing t
 Scalability and Efficiency: Scales effectively with large datasets, supporting business growth and innovation.
 
 ***
-**5.FUTURE ASPECTS**
+**5. FUTURE ASPECTS**
 
 Enhanced Personalization:
 Incorporate more advanced machine learning algorithms to refine and improve the accuracy of personalized recommendations.
