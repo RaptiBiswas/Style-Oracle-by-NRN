@@ -1,4 +1,6 @@
-# Style-Oracle-by-NRN
+**Style Oracle by NRN**
+
+**1. INSPIRATION**
 Gen Z is revolutionizing fashion, prioritizing self-expression, sustainability, and social consciousness over fleeting trends. However, the fashion industry struggles to adapt to these evolving demands. With technology advancing, Gen Z craves a system that caters to individuality and staying informed about trends. This disconnect presents a critical opportunity for the fashion industry to innovate and bridge the gap between traditional models and Gen Z's unique needs.
 ***
 # Use Cases
