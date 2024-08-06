@@ -16,24 +16,19 @@ Trend-Centric Recommendations: Employ AI-driven recommendation systems that anal
 
 **1. For Web scrapping:**
 
-     Libraries: Selenium, OS, wget etc.
-
+Libraries: Selenium, OS, wget etc.
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
 **2. For Recommendation System:**
 
 Programming Language: Python
-
 Libraries: OpenCV, Pandas, Numpy, Scikit-learn, Pickle
-
 Framework: TensorFlow/Keras
-
 Tools: Jupyter Notebook, VS Code
 
 **3. For Frontend Development:**
 
 Libraries: Streamlit
-
 Tools: VS Code
 ***
 **4.Features**
