@@ -14,11 +14,11 @@ Trend-Centric Recommendations: Employ AI-driven recommendation systems that anal
 ***
 **3.Technology**
 
-<u>The Broad Technologies Used  are:</u>
+The Broad Technologies Used  are:
 
-**1. For Web scrapping:**
+<ins>**1. For Web scrapping:**</ins>
 
-<ins>Libraries: Selenium, OS, wget etc.</ins>
+Libraries: Selenium, OS, wget etc.
 
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
