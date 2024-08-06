@@ -7,7 +7,9 @@ Gen Z is transforming fashion by emphasizing self-expression, sustainability, an
 **2.USE CASES**
 
 For this problem, the use cases we are addressing:
+
 Trend-Identification: Utilize data analytics and market research to identify emerging fashion trends.
+
 Trend-Centric Recommendations: Employ AI-driven recommendation systems that analyze current fashion trends, customer preferences, and purchase history to deliver tailored product suggestions, enhancing customer engagement and conversion rates in the fast fashion segment.
 ***
 **3.Technology**
@@ -17,18 +19,23 @@ Trend-Centric Recommendations: Employ AI-driven recommendation systems that anal
 **1. For Web scrapping:**
 
 Libraries: Selenium, OS, wget etc.
+
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
 **2. For Recommendation System:**
 
 Programming Language: Python
+
 Libraries: OpenCV, Pandas, Numpy, Scikit-learn, Pickle
+
 Framework: TensorFlow/Keras
+
 Tools: Jupyter Notebook, VS Code
 
 **3. For Frontend Development:**
 
 Libraries: Streamlit
+
 Tools: VS Code
 ***
 **4.Features**
