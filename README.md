@@ -16,13 +16,13 @@ Trend-Centric Recommendations: Employ AI-driven recommendation systems that anal
 
 The Broad Technologies Used  are:
 
-<ins>For Web scrapping:</ins>
+<ins>i)For Web scrapping:</ins>
 
 Libraries: Selenium, OS, wget etc.
 
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
-<ins>For Recommendation System:</ins>
+<ins>ii)For Recommendation System:</ins>
 
 Programming Language: Python
 
@@ -32,7 +32,7 @@ Framework: TensorFlow/Keras
 
 Tools: Jupyter Notebook, VS Code
 
-<ins>For Frontend Development:</ins>
+<ins>iii)For Frontend Development:</ins>
 
 Libraries: Streamlit
 
