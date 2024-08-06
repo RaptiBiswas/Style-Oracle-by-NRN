@@ -18,7 +18,7 @@ Trend-Centric Recommendations: Employ AI-driven recommendation systems that anal
 
 **1. For Web scrapping:**
 
-Libraries: Selenium, OS, wget etc.
+<ins>Libraries: Selenium, OS, wget etc.</ins>
 
 Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
