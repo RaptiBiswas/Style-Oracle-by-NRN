@@ -14,41 +14,41 @@ Trend-Centric Recommendations: Employ AI-driven recommendation systems that anal
 
 <u>The Broad Technologies Used  are:</u>
 
-1. For Web scrapping: 
+1. For Web scrapping:
 
-*Libraries: Selenium, OS, wget etc.
+Libraries: Selenium, OS, wget etc.
 
-*Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
+Tools: Jupyter Notebook, Chrome WebDriver, Developer Tools (in Chrome)
 
 2. For Recommendation System:
 
-*Programming Language: Python
+Programming Language: Python
 
-*Libraries: OpenCV, Pandas, Numpy, Scikit-learn, Pickle
+Libraries: OpenCV, Pandas, Numpy, Scikit-learn, Pickle
 
-*Framework: TensorFlow/Keras
+Framework: TensorFlow/Keras
 
-*Tools: Jupyter Notebook, VS Code
+Tools: Jupyter Notebook, VS Code
 
 3. For Frontend Development:
 
-*Libraries: Streamlit
+Libraries: Streamlit
 
-*Tools: VS Code
+Tools: VS Code
 ***
 **4.Features**
 
-*Personalization: Tailors recommendations to individual preferences, enhancing customer satisfaction.
+Personalization: Tailors recommendations to individual preferences, enhancing customer satisfaction.
 
-*Enhanced User Experience: Offers seamless mix-and-match options and curated inspirations, improving engagement.
+Enhanced User Experience: Offers seamless mix-and-match options and curated inspirations, improving engagement.
 
-*Trend Accuracy: Identifies and adapts to emerging fashion trends swiftly to keep brands competitive.
+Trend Accuracy: Identifies and adapts to emerging fashion trends swiftly to keep brands competitive.
 
-*Higher Conversions: Increases sales by suggesting relevant products aligned with consumer preferences.
+Higher Conversions: Increases sales by suggesting relevant products aligned with consumer preferences.
 
-*Promotes Sustainability: Integrates ethical and sustainable choices, appealing to socially conscious consumers.
+Promotes Sustainability: Integrates ethical and sustainable choices, appealing to socially conscious consumers.
 
-*Scalability and Efficiency: Scales effectively with large datasets, supporting business growth and innovation.
+Scalability and Efficiency: Scales effectively with large datasets, supporting business growth and innovation.
 
 ***
 **5.Future Aspects**
